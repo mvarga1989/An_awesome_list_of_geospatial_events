@@ -1,1 +1,3 @@
-# An_awesome_list_of_geospatial_events
+# An awesome list of geospatial events
+
+- [**Riegl**](http://www.riegl.com/media-events/events/article/22-internationale-geodaetische-woche-obergurgl-2023/)
