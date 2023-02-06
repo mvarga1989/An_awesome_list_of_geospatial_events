@@ -1,6 +1,12 @@
 # An awesome list of geospatial events
 
 
+Source:
+- [**Riegl**](http://www.riegl.com/media-events/events/article/22-internationale-geodaetische-woche-obergurgl-2023/)
+- [**ISPRS**](https://www.isprs.org/calendar/2023.aspx)
+
+
+
 - Internationale Geodätische Woche
 - Geo Week 2023
 - BiM Globe 2023 
@@ -30,6 +36,3 @@
 - CDay 2022 
 - EURONAVAL 
 - INTERGEO 2022 
-
-Source:
-- [**Riegl**](http://www.riegl.com/media-events/events/article/22-internationale-geodaetische-woche-obergurgl-2023/)
